@@ -17,4 +17,4 @@ public class Game {
 			j.setY(j.getY() + 1);
 		}
 	}
-}
+}  
