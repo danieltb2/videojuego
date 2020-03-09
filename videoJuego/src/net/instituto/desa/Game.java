@@ -14,7 +14,7 @@ public class Game {
 			j.setY(j.getY() - 1);
 		}
 		if (m.equalsIgnoreCase("Abajo")) {
-			j.setY(j.getY() + 1);
+			j.setY(j.getY() + 1); 
 		}
 	}
 }  
